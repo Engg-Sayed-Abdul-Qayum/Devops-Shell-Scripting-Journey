@@ -27,17 +27,17 @@ NOTE : This repository documents my **day-to-day Shell/Bash scripting practice**
 ---
 
 ### 🛠️ Technologies & Tools
-# Technology / Tool	Purpose
+#### Technology / Tool                	Purpose
 
-🐚 Bash	                Shell scripting and automation
+🐚 Bash	         -->     Shell scripting and automation
 
-🐧 Linux	        Command-line environment
+🐧 Linux	 -->     Command-line environment
 
-🔀 Git	                Version control
+🔀 Git	         -->     Version control
 
-🐙 GitHub	        Code hosting and collaboration
+🐙 GitHub	 -->     Code hosting and collaboration
 
-💻 VS Code	        Script development and editing
+💻 VS Code	 -->     Script development and editing
 
 ---
 
@@ -71,16 +71,24 @@ The repository evolves continuously with **new concepts, scripts, and hands-on e
 
 ### ▶️ How to Run
 
-```text
 1. Clone the Repository
+```text
 git clone https://github.com/Engg-Sayed-Abdul-Qayum/Devops-Shell-Scripting-Journey.git
+```
 2. Navigate to the Repository
+```text
 cd Devops-Shell-Scripting-Journey
+```
 3. Give Execute Permission
+```text
 chmod +x script-name.sh
+```
 4. Execute the Script
+```text
 ./script-name.sh
+```
 Alternatively:
+```text
 bash script-name.sh
 ```
 
@@ -97,7 +105,7 @@ Test Locally
     ↓
 Identify Errors
     ↓
-Debug
+  Debug
     ↓
 Improve Script
     ↓
