@@ -27,8 +27,7 @@ NOTE : This repository documents my **day-to-day Shell/Bash scripting practice**
 ---
 
 ### 🛠️ Technologies & Tools
-#### Technology / Tool   -->   	Purpose
-
+ 
 🐚 Bash	         -->     Shell scripting and automation
 
 🐧 Linux	 -->     Command-line environment
