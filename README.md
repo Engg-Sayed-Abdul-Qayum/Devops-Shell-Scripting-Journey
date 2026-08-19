@@ -9,6 +9,7 @@ This repository contains practical Shell scripting exercises and automation task
 Shell scripting is a core DevOps skill that enables automation, system administration, deployment, monitoring, and CI/CD workflows.
 
 This repository focuses on hands-on Shell scripting, with scripts continuously developed, tested, improved, and version-controlled using Git and GitHub.
+
 NOTE : This repository documents my **day-to-day Shell/Bash scripting practice** as part of my DevOps learning journey.
 
 ---
@@ -26,11 +27,16 @@ NOTE : This repository documents my **day-to-day Shell/Bash scripting practice**
 ---
 
 ### 🛠️ Technologies & Tools
-#Technology / Tool	Purpose
+# Technology / Tool	Purpose
+
 🐚 Bash	                Shell scripting and automation
+
 🐧 Linux	        Command-line environment
+
 🔀 Git	                Version control
+
 🐙 GitHub	        Code hosting and collaboration
+
 💻 VS Code	        Script development and editing
 
 ---
@@ -64,6 +70,8 @@ The repository evolves continuously with **new concepts, scripts, and hands-on e
 ---
 
 ### ▶️ How to Run
+
+```text
 1. Clone the Repository
 git clone https://github.com/Engg-Sayed-Abdul-Qayum/Devops-Shell-Scripting-Journey.git
 2. Navigate to the Repository
@@ -74,6 +82,7 @@ chmod +x script-name.sh
 ./script-name.sh
 Alternatively:
 bash script-name.sh
+```
 
 ---
 
@@ -81,6 +90,7 @@ bash script-name.sh
 
 A typical workflow I follow *while developing scripts:*
 
+```text
 Write Script
     ↓
 Test Locally
@@ -94,6 +104,7 @@ Improve Script
 Commit Changes
     ↓
 Push to GitHub
+```
 
 This approach helps me practice both Shell scripting and professional Git workflows.
 
