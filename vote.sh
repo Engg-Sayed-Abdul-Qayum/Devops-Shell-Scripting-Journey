@@ -1,16 +1,18 @@
 #!/bin/bash
 
-echo "Voting .. check"
-echo "*****************"
+# Script for Checking weather the Person is eligible for vote or not!
+# by checking His/Her Name
+# or
+# by checking His/Her Age
 
-read -p "Enter your Name : " name
-read -p "Enter your Age : " age
+read -p "Enter Your Age : " age
+read -p "Enter Your Name : " name 
 
-if [ $age -ge 18 ]; then
-    echo "$name you can vote !!"
- else 
-    echo "$name you can't vote !! boy!!"
-    echo "As your Age is $age"
-
+if [ $age > 18 ]; then
+    echo "You can vote !!"
+elif [ $name == "Amit" ]; then
+    echo "You can vote !!"
+else
+    echo "You can't vote !!"
 fi
 
