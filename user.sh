@@ -1,10 +1,12 @@
 #!/bin/bash
 
-name="Sayed-Abdul-Qayum"
-age=23
-contact="+91 6281867924"
+# Script for Creating a Folder 
+# Going inside and creating more two file's 
+# age and contact
 
- 
+name= "Sayed-Abdul-Qayum"
+age= 23
+contact= "+91 6281867924"
 
 mkdir $name
 

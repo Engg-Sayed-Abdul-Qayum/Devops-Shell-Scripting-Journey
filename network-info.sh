@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Script for Checking Network Information
+# ipconfig , ifconfig ,ip addr , ip link
+
 echo "Network information"
 echo "----------------"
 
