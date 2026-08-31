@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Script for Taking the Input for Name and ID ,
+# Creating the Folder with the Name ,
+# Going inside that folder ,
+# Creating a file called profile.txt containing with the Name Given before and also 
+# Creating a file called password.txt containing with the ID Given before
+
+
 echo "Welcome to TCA"
 echo "------------------"
 
